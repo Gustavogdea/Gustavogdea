@@ -5,7 +5,7 @@ Eu me chamo Gustavo, sou desenvolvedor full stack com enfasê em .NET Framework.
 Atualmente, em fase de construção para ser um <b>Full stack</b> completo. 🚧
 
 ---
-## Redes Sociais
+## Redes Sociais 🌎
 
 Me sigam nas redes sociais, vamos fazer network. 😉
 
