@@ -17,6 +17,6 @@ Me sigam nas redes sociais, vamos fazer network. 😉
 ---
 
 ## Github Stats 📈🧮
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoREDFOX&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavogdea&theme=blue-green)
 
-![](https://github-profile-trophy.vercel.app/?username=GustavoREDFOX&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Gustavogdea&theme=radical&no-frame=false&no-bg=false&margin-w=4)
