@@ -1,6 +1,6 @@
 # Eai Comunidade Github!!! 👋😊
 
-Eu me chamo Gustavo, sou desenvolvedor full stack com enfasê em .NET Framework. 💻
+Eu me chamo Gustavo, sou desenvolvedor em .NET C#. 💻
 
 Atualmente, em fase de construção para ser um <b>Full stack</b> completo. 🚧
 
