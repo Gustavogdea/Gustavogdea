@@ -2,8 +2,6 @@
 
 Eu me chamo Gustavo, sou desenvolvedor em .NET C#. 💻
 
-Atualmente, em fase de construção para ser um <b>Full stack</b> completo. 🚧
-
 ---
 ## Redes Sociais 🌎
 
