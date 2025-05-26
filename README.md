@@ -6,7 +6,7 @@
 Sou um desenvolvedor com foco em entregar soluções eficientes e funcionais. Tenho experiência com desenvolvimento em C#, VB.NET, SQL, PHP, HTML/CSS, JavaScript, além de experiência com frameworks front-end, como Bootstrap, TailWind CSS. Trabalho com desenvolvimento de sistemas personalizados, sendo Desktop ou Web, integrando e realizando automações de processos para empresas de diferentes segmentos.
 
 🌱 + Sobre mim
-- Inglês técnico para TI 🇺🇸;
+- Inglês técnico para TI ;
 - Boas práticas de arquitetura de software;
 
 
