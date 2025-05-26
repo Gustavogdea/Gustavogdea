@@ -12,8 +12,7 @@ Sou um desenvolvedor com foco em entregar soluções eficientes e funcionais. Te
 
 Espero poder contribuir em comunidade com projetos criados usando o framework .NET e outros utilizando PHP, React.Js.
 
-Contato:
-Email: gustavo.dealmeida1@outlook.com
+Email para contato: gustavo.dealmeida1@outlook.com
 
 ---
 ## Redes Sociais 🌎
