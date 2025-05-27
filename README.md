@@ -1,4 +1,4 @@
-# Eai Comunidade Github!!! 👋😊
+# Eai Comunidade Github!!! 
 
 💻 .NET Developer. 
 🚀 Apaixonado por tecnologia, desenvolvimento web e soluções inteligentes
@@ -16,8 +16,6 @@ Email para contato: gustavo.dealmeida1@outlook.com
 
 ---
 ## Redes Sociais 🌎
-
-Me sigam nas redes sociais, vamos fazer network. 😉
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavodealmeida1/) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavogdeati/) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515997517202) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.dealmeida1@outlook.com)
 ---
