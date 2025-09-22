@@ -24,6 +24,6 @@ Email para contato: gustavo.dealmeida1@outlook.com
 ---
 
 ## Github Stats 📈🧮
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavogdea&theme=blue-green](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavogdea&theme=blue-green))
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavogdea&theme=blue-green])
 
 ![](https://github-profile-trophy.vercel.app/?username=Gustavogdea&theme=radical&no-frame=false&no-bg=false&margin-w=4)
